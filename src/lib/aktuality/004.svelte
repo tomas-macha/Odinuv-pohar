@@ -1,4 +1,6 @@
 <script>
+    import Aktualita from "$lib/utils/Aktualita.svelte";
+    
     export let grid
 </script>
 <Aktualita nazev="Laureát Odinova poháru sbírá další úspěchy" datum="22. 10. 2023" {grid}
